@@ -1,29 +1,29 @@
 # PokeAPI Pokedex
 
-Bu proje, [PokeAPI](https://pokeapi.co/) kullanılarak geliştirilmiş basit bir Pokedex websitesidir. Websitesi üzerinden Pokemon bilgilerini görüntüleyebilir, harf bazlı arama yapabilir ve istediğiniz Pokemon'u bulabilirsiniz.
+This project is a simple Pokedex website developed using [PokeAPI](https://pokeapi.co/). You can use it to view Pokemon information and find the Pokemon you want by making letter-based searches.
 
-## Nasıl Kullanılır?
+## Usage
 
-1. Projeyi bilgisayarınıza klonlayın:
+1. Clone the project to your computer:
 
    ```bash
    git clone https://github.com/snmzgrkn/Pokedex.git
-Proje dizinine gidin:
+Navigate to the project directory:
 
 bash
 Copy code
 cd Pokedex
-HTML dosyasını bir tarayıcıda açın:
+Open the HTML file in a web browser:
 
 bash
 Copy code
 open index.html
-PokeAPI tarafından sağlanan verilerle Pokemon bilgilerini görüntüleyin ve harf bazlı arama yaparak istediğiniz Pokemon'u bulun.
+View Pokemon information using the data provided by PokeAPI and find the Pokemon you want by making letter-based searches.
 
-Teknolojiler
+Technologies
 HTML
 CSS
 JavaScript
-PokeAPI - Pokemon verileri için kullanılan API
-Katkıda Bulunma
-Eğer projeye katkıda bulunmak istiyorsanız, lütfen forklayın ve pull request gönderin. Her türlü katkı ve öneriye açığım.
+PokeAPI - API used for Pokemon data
+Contribution
+If you want to contribute to the project, please fork it and send a pull request. 
